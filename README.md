@@ -2,7 +2,9 @@
 This repository documents engineering work completed under a signed development agreement. The project was terminated before completion, and I currently have an unresolved payment dispute regarding compensation for a portion of the work performed with ***Heather*** and ***Craig***. This repository is intended to document my technical contributions and preserve a record of the engineering work I completed.
 
 https://www.linkedin.com/in/heather-nehamen-16634512
+
 https://m.yelp.com/biz/heather-nehamen-san-fernando-valley
+
 https://www.instagram.com/p/CgxjO_EvwH4/
 
 https://www.linkedin.com/in/craig-nehamen-4617279
