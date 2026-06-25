@@ -1,5 +1,5 @@
 # Note 
-This repository documents engineering work completed under a signed development agreement. The project was terminated before completion, and I currently have an unresolved payment dispute regarding compensation for a portion of the work performed with Heather and Craig. This repository is intended to document my technical contributions and preserve a record of the engineering work I completed.
+This repository documents engineering work completed under a signed development agreement. The project was terminated before completion, and I currently have an unresolved payment dispute regarding compensation for a portion of the work performed with **Heather** and **Craig**. This repository is intended to document my technical contributions and preserve a record of the engineering work I completed.
 
 <img width="1887" height="814" alt="3" src="https://github.com/user-attachments/assets/461964ed-835b-482a-9a26-e8a531c1101e" />
 <img width="1629" height="539" alt="4" src="https://github.com/user-attachments/assets/242c8773-ce15-4fd1-939c-830ac4b63acd" />
