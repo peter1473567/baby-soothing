@@ -1,6 +1,5 @@
 # Note 
-This repository documents engineering work that I completed under a signed contract. The project ended before all completed work was compensated. I am publishing this repository to document my technical contributions and preserve a record of the development work I performed.
-
+This repository documents engineering work completed under a signed development agreement. The project was terminated before completion, and I currently have an unresolved payment dispute regarding compensation for a portion of the work performed with ##Heather and Craig##. This repository is intended to document my technical contributions and preserve a record of the engineering work I completed.
 
 <img width="1630" height="749" alt="7" src="https://github.com/user-attachments/assets/0868aa60-1064-43f0-9fa9-14689f73f668" />
 <img width="1588" height="684" alt="6" src="https://github.com/user-attachments/assets/fe0c6df4-abe8-4720-a062-40b0639872d3" />
