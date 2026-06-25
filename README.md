@@ -1,11 +1,19 @@
 # Note 
 This repository documents engineering work completed under a signed development agreement. The project was terminated before completion, and I currently have an unresolved payment dispute regarding compensation for a portion of the work performed with ***Heather*** and ***Craig***. This repository is intended to document my technical contributions and preserve a record of the engineering work I completed.
 
+https://www.linkedin.com/in/heather-nehamen-16634512
+https://m.yelp.com/biz/heather-nehamen-san-fernando-valley
+https://www.instagram.com/p/CgxjO_EvwH4/
+
+https://www.linkedin.com/in/craig-nehamen-4617279
+
 <img width="1887" height="814" alt="3" src="https://github.com/user-attachments/assets/461964ed-835b-482a-9a26-e8a531c1101e" />
 <img width="1629" height="539" alt="4" src="https://github.com/user-attachments/assets/242c8773-ce15-4fd1-939c-830ac4b63acd" />
 <img width="1632" height="806" alt="5" src="https://github.com/user-attachments/assets/bfabcc78-6afb-472c-93d2-fa217921b5d5" />
 <img width="1588" height="684" alt="6" src="https://github.com/user-attachments/assets/6fd2ac71-2532-4fa1-b9fc-52203d912040" />
 <img width="1630" height="749" alt="7" src="https://github.com/user-attachments/assets/d8ff8949-18ee-430a-b48a-b9da9eed598b" />
+
+
 
 # Baby Soothing Wearable Device (Embedded Systems MVP)
 
