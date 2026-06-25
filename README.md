@@ -2,6 +2,13 @@
 This repository documents engineering work that I completed under a signed contract. The project ended before all completed work was compensated. I am publishing this repository to document my technical contributions and preserve a record of the development work I performed.
 
 
+<img width="1630" height="749" alt="7" src="https://github.com/user-attachments/assets/0868aa60-1064-43f0-9fa9-14689f73f668" />
+<img width="1588" height="684" alt="6" src="https://github.com/user-attachments/assets/fe0c6df4-abe8-4720-a062-40b0639872d3" />
+<img width="1632" height="806" alt="5" src="https://github.com/user-attachments/assets/98645524-54a5-485d-9d9f-88409b078ee1" />
+<img width="1629" height="539" alt="4" src="https://github.com/user-attachments/assets/2a2bcace-48b9-4869-9551-de226bbb040e" />
+<img width="1887" height="814" alt="3" src="https://github.com/user-attachments/assets/a750e0be-8037-4026-acb1-0e5337b28f1e" />
+
+
 # Baby Soothing Wearable Device (Embedded Systems MVP)
 
 ## Overview
