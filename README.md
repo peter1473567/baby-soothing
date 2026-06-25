@@ -1,4 +1,4 @@
-### Note 
+# Note 
 This repository documents engineering work that I completed under a signed contract. The project ended before all completed work was compensated. I am publishing this repository to document my technical contributions and preserve a record of the development work I performed.
 
 
